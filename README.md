@@ -1,5 +1,9 @@
-<h1 align="center">Hi there, I'm Abhay 👋</h1>
-<h3 align="center">A Passionate Data Science & Machine Learning Developer</h3>
+<p align="center">
+  <img src="./banner.png" alt="Abhay's Banner" width="100%">
+</p>
+
+<h1 align="center">Hi there, I'm Abhay Sahu 👋</h1>
+<h3 align="center">AI Backend & Python / Data Science Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhay300504&style=flat-square&color=blue" alt="Profile Views" />
@@ -10,16 +14,16 @@
 
 ### 👨‍💻 About Me
 * 🌱 I am a student pursuing my **BS in Data Science and Applications** at **IIT Madras** (completed my 2nd year in May 2026, working toward completing my 4th year in September 2027).
-* 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications.
+* 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications that solve real-world problems.
 * 🚀 Experienced in developing smart project management apps, portals, and predictive data systems.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 * **Languages & Core:** Python, HTML/CSS, DBMS
-* **Web Development:** Vue.js, Software Engineering, Software Testing
-* **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM
-* **Tools & Backend:** Celery, Redis
+* **Web Development & Backend:** Vue.js, Flask, FastAPI, Software Engineering, Software Testing, REST APIs
+* **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM, Pandas, NumPy
+* **Tools & Databases:** SQL, PostgreSQL, Celery, Redis, Git, Docker
 
 ---
 

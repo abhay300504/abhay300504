@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Abhay 👋</h1>
+<h3 align="center">A Passionate Data Science & Machine Learning Developer</h3>
 
-<!--
-**abhay300504/abhay300504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhay300504&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/BS%20in%20Data%20Science-IIT%20Madras-blue?style=flat-square&logo=ionos" alt="IIT Madras" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+* 🌱 I am a student pursuing my **BS in Data Science and Applications** at **IIT Madras** (completed my 2nd year in May 2026, working toward completing my 4th year in September 2027).
+* 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications.
+* 🚀 Experienced in developing smart project management apps, portals, and predictive data systems.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Languages & Core:** Python, HTML/CSS, DBMS
+* **Web Development:** Vue.js, Software Engineering, Software Testing
+* **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM
+* **Tools & Backend:** Celery, Redis
+
+---
+
+### 🚀 Projects & Hackathons
+* **Placement Portal Application:** Developed a comprehensive web portal application to streamline student placements.
+* **Smart Library Management Project:** Built an efficient software engineering solution for library tracking and management.
+* **Machine Learning Project (Comment Category Prediction Challenge):** Engineered a predictive machine learning model for automated comment classification.
+* **Business Data Management Project:** Designed structured databases and management pipelines for business data.
+* **Hackathons:** Actively participated in the **ISRO Hackathon** and **Compassion-thon at IIT Madras**.
+
+---
+
+### 📊 GitHub Stats & Metrics
+<p align="center">
+  <img align="center" src="https://github-readme-stats-phi-gules-10.vercel.app/api?username=abhay300504&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats-phi-gules-10.vercel.app/api/top-langs/?username=abhay300504&layout=compact&theme=radical&hide_border=true" />
+</p>

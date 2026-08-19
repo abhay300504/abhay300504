@@ -1,10 +1,6 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/main/dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/main/light.svg">
-    <img alt="Abhay Sahu Banner" src="https://raw.githubusercontent.com/abhay300504/abhay300504/main/banner.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="./banner.png" alt="Abhay's Banner" width="100%">
+</p>
 
 <h1 align="center">Hi there, I'm Abhay Sahu 👋</h1>
 <h3 align="center">AI Backend & Python / Data Science Developer</h3>
@@ -48,7 +44,7 @@
 <img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=abhay300504&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
 
-> *Note: Make sure to replace `YOUR-INSTANCE.vercel.app` with your own self-hosted Vercel URL from Phase 2, and hide the rank (`hide_rank=true`) to keep the stats card honest for new accounts.*
+> *Note: Make sure to replace `YOUR-INSTANCE.vercel.app` with your own self-hosted Vercel URL from Phase 2[cite: 1].*
 
 ---
 

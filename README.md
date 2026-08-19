@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/main/dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/main/light.svg">
-    <img alt="Abhay Sahu Banner" src="https://raw.githubusercontent.com/abhay300504/abhay300504/main/light.svg">
+    <img alt="Abhay Sahu Banner" src="https://raw.githubusercontent.com/abhay300504/abhay300504/main/banner.svg">
   </picture>
 </div>
 

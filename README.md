@@ -23,6 +23,13 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <br/>
+  <!-- AI, RAG & LLM Stack -->
+  <img src="https://img.shields.io/badge/RAG_Systems-FF5722?style=for-the-badge&logo=openai&logoColor=white" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Vector_DB-26A69A?style=for-the-badge&logo=databricks&logoColor=white" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/ChromaDB-00ADD8?style=for-the-badge&logo=chroma&logoColor=white" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone" />
+  <br/>
   <!-- Web Development & Backend -->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
@@ -34,6 +41,11 @@
   <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <br/>
+  <!-- Software Testing & Engineering -->
+  <img src="https://img.shields.io/badge/Unit_Testing-425CC7?style=for-the-badge&logo=pytest&logoColor=white" alt="Unit Testing" />
+  <img src="https://img.shields.io/badge/Integration_Testing-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Integration Testing" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
   <br/>
   <!-- Tools & Databases -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />

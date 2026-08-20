@@ -45,11 +45,10 @@
 </div>
 
 ---
----
 
 ### 📫 Connect With Me
 <div align="center">
-  <a href="https://linkedin.com/in/abhaysahu7355" target="_blank">
+  <a href="https://www.linkedin.com/in/abhay-m-1490791ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;

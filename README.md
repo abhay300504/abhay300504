@@ -45,25 +45,15 @@
 </div>
 
 ---
-
-### 🐍 Contribution Snake
-<div align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/output/github-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhay300504/abhay300504/output/github-snake.svg" />
-<img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/abhay300504/abhay300504/output/github-snake.svg" />
-</picture>
-</div>
-
 ---
 
 ### 📫 Connect With Me
 <div align="center">
-<a href="https://linkedin.com/in/abhaysahu7355">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:abhaysahu7355@gmail.com">
-<img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" />
-</a>
+  <a href="https://linkedin.com/in/abhaysahu7355" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abhaysahu7355@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </div>

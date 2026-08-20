@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there, I'm Abhay Sahu 👋</h1>
-<h3 align="center">AI Backend & Python / Data Science Developer</h3>
+<h3 align="center">AI Backend Engineer & Machine Learning Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhay300504&style=flat-square&color=blue" alt="Profile Views" />
@@ -13,26 +13,26 @@
 ---
 
 ### 👨‍💻 About Me
-* 🌱 I am a student pursuing my **BS in Data Science and Applications** at **IIT Madras** (completed my 2nd year in May 2026, working toward completing my 4th year in September 2027).
+* 🌱 I am a student pursuing my **BS in Data Science and Applications** at **IIT Madras** (completed my diploma in May 2026, working toward completing my 4th year in September 2027).
 * 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications that solve real-world problems.
-* 🚀 Experienced in developing smart project management apps, portals, and predictive data systems.
+* 🚀 Experienced in developing smart project management apps, institutional portals, portals, and predictive data systems.
+* 🏆 Active participant in hackathons like the **ISRO Hackathon** and **Compassion-thon** at IIT Madras.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Core:** Python, HTML/CSS, DBMS
-* **Web Development & Backend:** Vue.js, Flask, FastAPI, Software Engineering, Software Testing, REST APIs
+* **Languages & Core:** Python, SQL, HTML/CSS, DBMS, Javascript, Java
+* **Web Development & Backend:** Vue.js, Flask, FastAPI, REST APIs, Software Engineering & Testing
 * **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM, Pandas, NumPy
-* **Tools & Databases:** SQL, PostgreSQL, Celery, Redis, Git, Docker
+* **Tools & Databases:** PostgreSQL, Celery, Redis, Git, Docker
 
 ---
 
 ### 🚀 Projects & Hackathons
-* **Placement Portal Application:** Developed a comprehensive web portal application to streamline student placements.
-* **Smart Library Management Project:** Built an efficient software engineering solution for library tracking and management.
-* **Machine Learning Project (Comment Category Prediction Challenge):** Engineered a predictive machine learning model for automated comment classification.
-* **Business Data Management Project:** Designed structured databases and management pipelines for business data.
-* **Hackathons:** Actively participated in the **ISRO Hackathon** and **Compassion-thon at IIT Madras**.
+* **Placement Portal Application:** Developed a comprehensive web portal application to streamline student placements and institutional workflows.
+* **Smart Library Management Project:** Built an efficient software engineering solution for library tracking, resource management, and user handling.
+* **Machine Learning Project (Comment Category Prediction Challenge):** Engineered a predictive machine learning model using robust data preprocessing and classification algorithms.
+* **Business Data Management Project:** Designed structured databases and management pipelines for processing and organizing complex business data.
 
 ---
 

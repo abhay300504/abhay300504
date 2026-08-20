@@ -9,7 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=abhay300504&style=flat-square&color=blue" alt="Profile Views" />
   <img src="https://img.shields.io/badge/BS%20in%20Data%20Science-IIT%20Madras-blue?style=flat-square&logo=ionos" alt="IIT Madras" />
 </p>
+
 ---
+
 ### 🛠️ Tech Stack & Skills
 
 <p align="center">
@@ -40,6 +42,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
@@ -47,14 +50,6 @@
 * 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications that solve real-world problems.
 * 🚀 Experienced in developing smart project management apps, institutional portals, and predictive data systems.
 * 🏆 Active participant in hackathons like the **ISRO Hackathon** and **Compassion-thon** at IIT Madras.
-
----
-
-### 🛠️ Tech Stack & Skills
-* **Languages & Core:** Python, SQL, HTML/CSS, DBMS, JavaScript, Java
-* **Web Development & Backend:** Vue.js, Flask, FastAPI, REST APIs, Software Engineering & Testing
-* **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM, Pandas, NumPy
-* **Tools & Databases:** PostgreSQL, Celery, Redis, Git, Docker
 
 ---
 

@@ -15,13 +15,13 @@
 ### 👨‍💻 About Me
 * 🌱 I am a student pursuing my **BS in Data Science and Applications** at **IIT Madras** (completed my diploma in May 2026, working toward completing my 4th year in September 2027).
 * 💡 Passionate about building robust software systems, machine learning models, and full-stack web applications that solve real-world problems.
-* 🚀 Experienced in developing smart project management apps, institutional portals, portals, and predictive data systems.
+* 🚀 Experienced in developing smart project management apps, institutional portals, and predictive data systems.
 * 🏆 Active participant in hackathons like the **ISRO Hackathon** and **Compassion-thon** at IIT Madras.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Core:** Python, SQL, HTML/CSS, DBMS, Javascript, Java
+* **Languages & Core:** Python, SQL, HTML/CSS, DBMS, JavaScript, Java
 * **Web Development & Backend:** Vue.js, Flask, FastAPI, REST APIs, Software Engineering & Testing
 * **Data Science & Machine Learning:** Machine Learning, Deep Learning, scikit-learn, LightGBM, Pandas, NumPy
 * **Tools & Databases:** PostgreSQL, Celery, Redis, Git, Docker
@@ -40,11 +40,9 @@
 <div align="center">
 <img width="100%" src="https://streak-stats.demolab.com/?user=abhay300504&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 <br/>
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=abhay300504&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=abhay300504&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=abhay300504&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhay300504&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 </div>
-
-> *Note: Make sure to replace `YOUR-INSTANCE.vercel.app` with your own self-hosted Vercel URL from Phase 2[cite: 1].*
 
 ---
 
